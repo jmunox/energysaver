@@ -1,7 +1,8 @@
 energysaver
 ===========
 
-Project belonging to my final Thesis for my master studies of Human Technology Interaction. 
+Project belonging to my final Thesis for my master studies of Human Technology Interaction at the 
+Eindhoven University of Technology
 
 
 Brief Overview:
@@ -28,7 +29,7 @@ The feedback was provided through a web interface and it consisted of a virtual 
 avatars which were associated to each participant of a specific team. 
 
 *The idea of the animated island was inspired in the concept of the EcoIsland, a work done previously by 
-Takayama et al. (2009).
+Takayama et al. (2009). http://forum.pervasive2008.org/Papers/Workshop/w2-17.pdf
 
 The way the feedback was presented differed depending on the experimental condition: 
 
@@ -80,10 +81,13 @@ The Plugwise Module for CRN Toolbox is based and inspired on the protocol inform
  *  Kenneth J. Turner's work: http://www.cs.stir.ac.uk/~kjt/software/comms/plugwise.html
 
 
-
-
 ##############################################################################################################
-If you are interested in the theoretical rational  behind this project, continue reading.
+
+Research Summary:
+=================
+If you are interested in the theoretical rational, scientific results and conclusions behind this project, please 
+continue reading.
+
 
 Research Rationale:
 ===================
@@ -100,6 +104,8 @@ Furthermore, their performance may be influenced by eachothers actions: whether 
 adopt a sustainable behavior is interdependent with the interactions and relations to other subjects within the 
 context in which he or she is embedded.
 
+The current research extends the previous study of Midden et al. (2011) into a field experiment over long term interactions.
+
 
 Research Question:
 ==================
@@ -108,6 +114,20 @@ The current study tested whether strategies that display the effects of individu
 than strategies that only display the effects of group contribution in a field experiment. 
 In particular, the current research investigated the differences in effectiveness between providing individual 
 comparison feedback and providing group feedback in order to reduce energy consumption. 
+
+Hypotheses:
+===========
+Hypothesis 1. Individual comparison feedback will be more effective than no feedback condition. 
+
+Individual comparison feedback should reduce energy consumption.
+
+Hypothesis 2. Group feedback will be more effective than no feedback condition. 
+
+Group feedback should reduce the energy consumption.
+
+Hypothesis 3. Individual comparison feedback will be more effective than group feedback.
+
+Individual comparison feedback should reduce energy consumption more effectively than group feedbac.k
 
 
 Methodology:
@@ -139,4 +159,49 @@ Data analysis:
 In order to test the difference between type of feedback strategy, the consumption data was submitted into a 
 repeated measures ANOVA (“days” as within subjects factor vs “feedback type”, as between subjects factor).
 
+Planned contrast comparisons were used to understand what were the differences in energy consumption between 
+the experimental conditions (no feedback, individual comparison and group feedback).
 
+Results:
+========
+
+The first planned contrast comparisons revealed a marginal significant difference between subjects that received 
+no feedback and subjects that received individual comparison feedback, t(21) = 1.48, p = .07 (1-tailed). 
+Contrary to hypothesis 1, subjects that received individual comparison feedback consumed in average more energy 
+compared to individuals who did not receive feedback. 
+
+A marginal significance difference was found between subjects with no feedback and subjects with group feedback 
+(t(21) = 1.327, p = .06 (1-tailed). This result provides support for hypothesis 2 in which it was expected that 
+the group feedback condition would reduce the energy consumption compared to the no feedback condition. 
+
+
+A significant difference - t(21) = 2.90, p < .01 - in the total energy consumed was found between subjects in 
+the individual comparison condition compared to subjects in the group condition. This difference provides evidence 
+against Hypothesis 3, suggesting that the group feedback condition reduced their consumption compared to the 
+individual comparison feedback group.
+
+
+Conclusion:
+============
+
+The individuals that received the group feedback reduced their energy consumption more effectively compared to 
+individuals that did not receive feedback. This result supported our hypothesis and provided new evidence about 
+the way individuals might react to different types of settings regarding to their sustainable behavior. 
+According to the results of the previous study (Midden et al., 2011), group feedback was only effective for 
+subjects that came from a collectivist culture (Japan), while subjects that came from an individualistic 
+culture (The Netherlands) group feedback was not motivating them enough to save energy. 
+
+In the case of this study, we found evidence that group feedback was effective in changing the behavior of the 
+individuals, when consumption was monitored in a context that occurred through a longer period of time. 
+
+Secondly, individuals that received individual comparison feedback also presented a tendency to reduce their 
+energy consumption. However, they consumed more energy in average compared to individuals that did not receive 
+feedback. 
+
+This result might not support our first hypothesis, nevertheless, there is a tendency to reduce their energy which 
+might suggest that the feedback had a positive effect on the energy conservation behavior. 
+The feedback motivated the individual to save energy but it might not have reduced the uncertainty that surrounded 
+the goal of saving energy completely. 
+
+Our results give evidence that providing feedback to individuals within a group triggers their commitment to 
+sustainable behaviors.
