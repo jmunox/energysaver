@@ -1,0 +1,153 @@
+html
+{
+	background-color: #CCCCCC;
+}
+
+#page
+{
+	z-index: 1;
+	width: 900px;
+	min-height: 614px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: #333333;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#master-header
+{
+	width: 0.01px;
+	position: relative;
+}
+
+#u85
+{
+	z-index: 3;
+	width: 900px;
+	margin-right: -900px;
+}
+
+#u79
+{
+	z-index: 4;
+	width: 128px;
+	margin-right: -128px;
+}
+
+#pu78
+{
+	width: 0.01px;
+	margin-left: 59px;
+	margin-top: 18px;
+	position: relative;
+}
+
+#u78
+{
+	z-index: 17;
+	width: 586px;
+	position: relative;
+	margin-right: -586px;
+}
+
+._u78.f3s_top
+{
+	width: 586px;
+	/*background-image: url("../images/u78-sprite.png");*/
+	overflow: hidden;
+	height: 21px;
+	/*background-position: left top;*/
+}
+
+._u78.f3s_mid
+{
+	background-image: url("../images/u78-sprite.png");
+	overflow: visible;
+	background-position: -586px top;
+	width: 586px;
+	height: 430px;
+	-moz-border-radius: 10px 10px 0px 10px;
+	-webkit-border-radius: 10px 10px 0px 10px;
+	-khtml-border-radius: 10px 10px 0px 10px;
+	border-radius: 10px 10px 0px 10px;
+}
+
+._u78.f3s_bot
+{
+	width: 586px;
+	/* background-image: url("../images/u78-sprite.png");*/
+	overflow: visible;
+	height: 19px;
+	/*background-position: -1172px top;*/
+}
+
+#u105
+{
+	z-index: 18;
+	width: 207px;
+	height: 461px;
+	border-color: #4D4D4D;
+	background-color: #4D4D4D;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;
+	position: relative;
+	margin-right: -207px;
+	left: 614px;
+}
+
+#master-footer
+{
+	width: 0.01px;
+	margin-top: 8px;
+	position: relative;
+}
+
+#u88
+{
+	z-index: 7;
+	width: 900px;
+	padding-bottom: 8px;
+	margin-right: -900px;
+}
+
+#u91
+{
+	z-index: 14;
+	width: 86px;
+	margin-right: -86px;
+	margin-top: 8px;
+	left: 10px;
+}
+
+#u89-6
+{
+	z-index: 8;
+	width: 348px;
+	min-height: 18px;
+	margin-right: -348px;
+	margin-top: 13px;
+	left: 551px;
+}
+
+body
+{
+	padding-top: 9px;
+	padding-bottom: 36px;
+}
+
+#canvas {
+	-moz-border-radius: 10px 0px 0px 10px;
+	-webkit-border-radius: 10px 0px 0px 10px;
+	-khtml-border-radius: 10px 0px 0px 10px;
+	border-radius: 10px 0px 0px 10px;
+}
+
+#instructions{
+	font-size: 14px;
+	color: #FFF;
+}
+

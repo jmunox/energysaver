@@ -1,0 +1,120 @@
+#u85
+{
+	border-color: #000000;
+	background-color: #FFFFFF;
+	-moz-border-radius: 20px 20px 0px 0px ;
+	-webkit-border-radius: 20px 20px 0px 0px ;
+	-khtml-border-radius: 20px 20px 0px 0px ;
+	border-radius: 20px 20px 0px 0px ;
+	position: relative;
+}
+
+#u79_img
+{
+	display: block;
+	vertical-align: top;
+}
+
+#u88
+{
+	border-color: #000000;
+	background-color: #F4F4F4;
+	position: relative;
+}
+
+#u79,#u91
+{
+	position: relative;
+}
+
+#u91_img
+{
+	vertical-align: top;
+}
+
+#u89-6
+{
+	font-size: 10px;
+	color: #666;
+	/* color: #CFCFCF;*/
+	font-family: Verdana, Tahoma, Geneva, sans-serif;
+	position: relative;
+}
+
+#tue_logos{
+	font-size: 10px;
+	color: #666;
+	font-family: Verdana, Tahoma, Geneva, sans-serif;
+	position: relative;
+	margin-left: 10px;
+	margin-top: 13px;
+}
+
+#about{
+	font-size: 10px;
+	color: #666;
+	font-family: Verdana, Tahoma, Geneva, sans-serif;
+	position: relative;
+	margin-left: 10px;
+	margin-top: 13px;
+}
+
+#u119
+{
+	z-index: 19;
+	width: 75px;
+	border-color: #000000;
+	background-color: #E9E9E9;
+	-moz-border-radius: 10px 10px 10px 10px ;
+	-webkit-border-radius: 10px 10px 10px 10px ;
+	-khtml-border-radius: 10px 10px 10px 10px ;
+	border-radius: 10px 10px 10px 10px ;
+	padding-bottom: 5px;
+	margin-left: 370px;
+	margin-top: 10px;
+	position: relative;
+}
+
+
+#u119_double
+{
+	z-index: 19;
+	width: 200px;
+	border-color: #000000;
+	background-color: #E9E9E9;
+	-moz-border-radius: 10px 10px 10px 10px ;
+	-webkit-border-radius: 10px 10px 10px 10px ;
+	-khtml-border-radius: 10px 10px 10px 10px ;
+	border-radius: 10px 10px 10px 10px ;
+	padding-bottom: 5px;
+	margin-left: 300px;
+	margin-top: 10px;
+	position: relative;
+}
+
+#gonext {
+	margin-top: 5px; 
+	margin-right: 2px; 
+	padding: 0px 5px 2px 7px;
+	-moz-border-radius: 5px 10px 10px 5px ;
+	-webkit-border-radius: 5px 10px 10px 5px ;
+	-khtml-border-radius: 5px 10px 10px 5px ;
+	border-radius: 5px 10px 10px 5px ;
+	display: block; /* this gives the link block properties causing it to fill the whole LI containing it. This causes the entire area to react to a mouse click. */
+	text-decoration: none;
+	background: #CCC;
+	color: #666;
+	/*color: rgb(193, 39, 45);*/
+}
+
+#gonext:hover { /* this changes the background and text color for both mouse and keyboard navigators */
+	background: #4D4D4D;
+	color: #FFF;
+}
+
+	.contact_info{
+	color: rgb(255, 255, 255); 
+	padding: 5px 0px 0px 10px;
+	display: block; 
+	background:rgb(102, 102, 102);
+}

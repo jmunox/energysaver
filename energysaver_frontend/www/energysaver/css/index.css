@@ -1,0 +1,392 @@
+html
+{
+	background-color: #CCCCCC;
+}
+
+#page
+{
+	z-index: 1;
+	width: 900px;
+	min-height: 500px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: #333333;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#ppu104
+{
+	width: 0.01px;
+	left: -1px;
+	position: relative;
+}
+
+#pu104
+{
+	width: 0.01px;
+	position: relative;
+	margin-right: -712px;
+	margin-top: 115px;
+}
+
+#u104
+{
+	z-index: 17;
+	width: 527px;
+	border-color: #000000;
+	background-color: #FFFFFF;
+	-moz-border-radius: 0px 10px 10px 0px ;
+	-webkit-border-radius: 0px 10px 10px 0px ;
+	-khtml-border-radius: 0px 10px 10px 0px ;
+	border-radius: 0px 10px 10px 0px ;
+	padding-bottom: 10px;
+	margin-left: 1px;
+	position: relative;
+}
+
+#u99-6
+{
+	z-index: 20;
+	width: 319px;
+	min-height: 29px;
+	font-family: Verdana, Tahoma, Geneva, sans-serif;
+	position: relative;
+	margin-right: -319px;
+	margin-top: 12px;
+	left: 212px;
+}
+
+#u99-2
+{
+	font-size: 18px;
+	color: #232323;
+}
+
+#u99-4
+{
+	font-size: 14px;
+	color: #C1272D;
+}
+
+#u103-9
+{
+	z-index: 26;
+	width: 224px;
+	min-height: 193px;
+	text-align: justify;
+	font-family: Verdana, Tahoma, Geneva, sans-serif;
+	margin-left: 213px;
+	margin-top: 12px;
+	position: relative;
+}
+
+#u103-a19
+{
+	z-index: 26;
+	width: 450px;
+	min-height: 193px;
+	text-align: justify;
+	font-family: Verdana, Tahoma, Geneva, sans-serif;
+	margin-left: 150px;
+	margin-top: 18px;
+	position: relative;
+}
+
+
+#u103-2,#u103-4
+{
+	font-size: 11px;
+	color: #FFFFFF;
+}
+
+#u103-5
+{
+	font-size: 11px;
+	color: #E4E4E4;
+}
+
+#u103-7
+{
+	font-size: 10px;
+	color: #C6C6C6;
+}
+
+#u112
+{
+	z-index: 35;
+	width: 712px;
+	margin-top: 60px;
+	position: relative;
+	float: bottom;
+}
+
+#u112_img
+{
+	vertical-align: top;
+	z-index: 100;
+	position: relative;
+}
+
+#pu86
+{
+	width: 0.01px;
+	position: relative;
+	margin-right: -189px;
+	left: 712px;
+}
+
+#u86
+{
+	z-index: 18;
+	width: 189px;
+	height: 77px;
+	border-color: #000000;
+	/*background-color: #E9E9E9;*/
+	-moz-border-radius: 0px 20px 0px 0px ;
+	-webkit-border-radius: 0px 20px 0px 0px ;
+	-khtml-border-radius: 0px 20px 0px 0px ;
+	border-radius: 0px 20px 0px 0px ;
+	position: relative;
+}
+
+#u87
+{
+/* 	
+	width: 189px;
+	height: 420px;
+	border-color: #000000;
+	background-color: #4E4E4E;
+	position: relative; */
+	z-index: 19;
+	width: 250px;
+	height: 320px;
+	border-color: #4D4D4D;
+	background-color: #4D4D4D;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;
+	position: relative;
+	margin-right: -250px;
+	margin-top: 100px;
+	left: 620px;
+}
+
+#u87_b
+{
+/* 	
+	width: 189px;
+	height: 420px;
+	border-color: #000000;
+	background-color: #4E4E4E;
+	position: relative; */
+	z-index: 19;
+	width: 250px;
+	height: 385px;
+	border-color: #4D4D4D;
+	background-color: #4D4D4D;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;
+	position: relative;
+	margin-right: -250px;
+	margin-top: 90px;
+	left: 620px;
+}
+
+
+#contact_box
+{
+/* 	
+	width: 189px;
+	height: 420px;
+	border-color: #000000;
+	background-color: #4E4E4E;
+	position: relative; */
+	z-index: 19;
+	width: 250px;
+	height: 150px;
+	border-color: #4D4D4D;
+	background-color: #4D4D4D;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;
+	position: relative;
+	margin-right: -250px;
+	margin-top: 140px;
+	left: 620px;
+}
+
+#instructions_box
+{
+/* 	
+	width: 189px;
+	height: 420px;
+	border-color: #000000;
+	background-color: #4E4E4E;
+	position: relative; */
+	z-index: 19;
+	width: 250px;
+	height: 270px;
+	border-color: #4D4D4D;
+	background-color: #4D4D4D;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;
+	position: relative;
+	margin-right: -250px;
+	margin-top: 140px;
+	left: 620px;
+}
+
+
+
+#welcome
+{
+/* 	
+	width: 189px;
+	height: 420px;
+	border-color: #000000;
+	background-color: #4E4E4E;
+	position: relative; */
+	z-index: 39;
+	width: 450px;
+	height: 250px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;
+	position: relative;
+	margin-left: -550px;
+	margin-top: 130px;
+	left: 620px;
+}
+
+
+#example
+{
+/* 	
+	width: 189px;
+	height: 420px;
+	border-color: #000000;
+	background-color: #4E4E4E;
+	position: relative; */
+	z-index: 19;
+	width: 450px;
+	height: 250px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;
+	position: relative;
+	margin-left: -500px;
+	margin-top: 110px;
+	left: 620px;
+}
+
+
+#master-header
+{
+	width: 0.01px;
+	position: relative;
+	margin-right: -900px;
+	left: 1px;
+}
+
+#u85
+{
+	z-index: 3;
+	width: 900px;
+	margin-right: -900px;
+}
+
+#u79
+{
+	z-index: 4;
+	width: 128px;
+	margin-right: -128px;
+}
+
+#master-footer
+{
+	width: 0.01px;
+	position: relative;
+}
+
+#u88
+{
+	z-index: 7;
+	width: 900px;
+	padding-bottom: 8px;
+	margin-right: -900px;
+}
+
+#u91
+{
+	z-index: 14;
+	width: 86px;
+	margin-right: -86px;
+	margin-top: 8px;
+	left: 10px;
+}
+
+#u89-6
+{
+	z-index: 8;
+	width: 348px;
+	min-height: 18px;
+	margin-right: -348px;
+	margin-top: 13px;
+	left: 551px;
+}
+
+body
+{
+	padding-top: 9px;
+	padding-bottom: 36px;
+}
+
+#example_img{
+	-moz-box-shadow: 1px 1px 5px rgba(F, F, F, .3);
+	-webkit-box-shadow: 1px 1px 5px rgba(F, F, F, .3);
+	box-shadow: 1px 1px 5px rgba(F, F, F, .3);
+	margin-top: 30px;
+}
+
+#example_img2{
+	-moz-box-shadow: 1px 1px 5px rgba(F, F, F, .3);
+	-webkit-box-shadow: 1px 1px 5px rgba(F, F, F, .3);
+	box-shadow: 1px 1px 5px rgba(F, F, F, .3);
+	margin-top: 100px;
+}
+
+#about_contact_box{
+	/* 	
+	width: 189px;
+	height: 420px;
+	border-color: #000000;
+	background-color: #4E4E4E;
+	position: relative; */
+	z-index: 19;
+	width: 250px;
+	height: 460px;
+	border-color: #4D4D4D;
+	background-color: #4D4D4D;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;
+	position: relative;
+	margin-right: -250px;
+	margin-top: 40px;
+	left: -80px;
+}
+
+#box_mailto{
+	color: #FFFFFF;
+}

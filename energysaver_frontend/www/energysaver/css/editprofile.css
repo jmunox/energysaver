@@ -1,0 +1,382 @@
+html
+{
+	background-color: #CCCCCC;
+}
+
+#page
+{
+	z-index: 1;
+	width: 900px;
+	min-height: 476px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: #333333;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#pppu132
+{
+	width: 0.01px;
+	left: -1px;
+	position: relative;
+}
+
+#ppu132
+{
+	width: 0.01px;
+	position: relative;
+	margin-right: -712px;
+	margin-top: 100px;
+}
+
+#pu132
+{
+	width: 0.01px;
+	margin-left: 23px;
+	position: relative;
+}
+
+#u132
+{
+	z-index: 41;
+	width: 287px;
+	height: 185px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #FFFFFF;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;
+	position: relative;
+	margin-right: -289px;
+}
+
+#pu124
+{
+	width: 0.01px;
+	position: relative;
+	margin-right: -218px;
+	left: 322px;
+}
+
+#u124
+{
+	z-index: 29;
+	width: 218px;
+	border-color: #000000;
+	background-color: #4E4E4E;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;
+	padding-bottom: 6px;
+	position: relative;
+}
+
+#u125-4
+{
+	z-index: 30;
+	width: 124px;
+	min-height: 71px;
+	font-size: 60px;
+	color: #FFFFFF;
+	font-family: Verdana, Tahoma, Geneva, sans-serif;
+	position: relative;
+	margin-right: -124px;
+	margin-top: 4px;
+	left: 44px;
+}
+
+#u121
+{
+	z-index: 20;
+	width: 218px;
+	border-color: #000000;
+	background-color: #4E4E4E;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;
+	padding-bottom: 5px;
+	margin-top: 22px;
+	position: relative;
+}
+
+#u122-4
+{
+	z-index: 21;
+	width: 180px;
+	min-height: 71px;
+	font-size: 60px;
+	color: #FFFFFF;
+	font-family: Verdana, Tahoma, Geneva, sans-serif;
+	position: relative;
+	margin-right: -180px;
+	margin-top: 5px;
+	left: 16px;
+}
+
+#pu126-4
+{
+	width: 0.01px;
+	position: relative;
+	margin-right: -71px;
+	margin-top: 46px;
+	left: 549px;
+}
+
+#u126-4
+{
+	z-index: 34;
+	width: 71px;
+	min-height: 19px;
+	font-size: 18px;
+	/*color: #4E4E4E;*/
+	color: #FFFFFF;
+	font-family: Verdana, Tahoma, Geneva, sans-serif;
+	position: relative;
+}
+
+#u123-4
+{
+	z-index: 25;
+	width: 71px;
+	min-height: 19px;
+	font-size: 18px;
+	/*color: #4E4E4E;*/
+		color: #FFFFFF;
+	font-family: Verdana, Tahoma, Geneva, sans-serif;
+	margin-top: 82px;
+	position: relative;
+}
+
+#u119
+{
+	z-index: 19;
+	width: 497px;
+	border-color: #000000;
+	background-color: #E9E9E9;
+	-moz-border-radius: 10px 10px 10px 10px ;
+	-webkit-border-radius: 10px 10px 10px 10px ;
+	-khtml-border-radius: 10px 10px 10px 10px ;
+	border-radius: 10px 10px 10px 10px ;
+	padding-bottom: 10px;
+	margin-left: 215px;
+	margin-top: 46px;
+	position: relative;
+}
+
+#u131
+{
+	z-index: 40;
+	width: 400px;
+	height: 14px;
+	border-style: none;
+	border-color: transparent;
+	/*background-color: #C1272D;*/
+	position: relative;
+	margin-right: -474px;
+	margin-top: 10px;
+	left: 18px;
+}
+
+#u128
+{
+	z-index: 38;
+	width: 712px;
+	margin-top: 12px;
+	position: relative;
+}
+
+#u128_img
+{
+	vertical-align: top;
+}
+
+#pu117
+{
+	width: 0.01px;
+	position: relative;
+	margin-right: -189px;
+	left: 712px;
+}
+
+#u117
+{
+	z-index: 17;
+	width: 189px;
+	height: 77px;
+	border-color: #000000;
+	/*background-color: #E9E9E9;*/
+	-moz-border-radius: 0px 20px 0px 0px ;
+	-webkit-border-radius: 0px 20px 0px 0px ;
+	-khtml-border-radius: 0px 20px 0px 0px ;
+	border-radius: 0px 20px 0px 0px ;
+	position: relative;
+}
+
+#u118
+{
+	z-index: 18;
+	width: 189px;
+	height: 410px;
+	border-color: #000000;
+	background-color: #4E4E4E;
+	position: relative;
+}
+
+#master-header
+{
+	width: 0.01px;
+	position: relative;
+	margin-right: -900px;
+	left: 1px;
+}
+
+#u85
+{
+	z-index: 3;
+	width: 900px;
+	margin-right: -900px;
+}
+
+#u79
+{
+	z-index: 4;
+	width: 128px;
+	margin-right: -128px;
+}
+
+#master-footer
+{
+	width: 0.01px;
+	position: relative;
+}
+
+#u88
+{
+	z-index: 7;
+	width: 900px;
+	padding-bottom: 8px;
+	margin-right: -900px;
+}
+
+#u91
+{
+	z-index: 14;
+	width: 86px;
+	margin-right: -86px;
+	margin-top: 8px;
+	left: 10px;
+}
+
+#u89-6
+{
+	z-index: 8;
+	width: 348px;
+	min-height: 18px;
+	margin-right: -348px;
+	margin-top: 13px;
+	left: 551px;
+	color: #666;
+}
+
+body
+{
+	padding-top: 9px;
+	padding-bottom: 36px;
+}
+
+#saveagenda{
+	margin-top: 7px; 
+	margin-right: 2px; 
+	padding: 0px 5px 0px 7px;
+	-moz-border-radius: 10px 10px 10px 10px ;
+	-webkit-border-radius: 10px 10px 10px 10px ;
+	-khtml-border-radius: 10px 10px 10px 10px ;
+	border-radius: 10px 10px 10px 10px ;
+	display: block; /* this gives the link block properties causing it to fill the whole LI containing it. This causes the entire area to react to a mouse click. */
+	text-decoration: none;
+	background: #CCC;
+	color: #666;
+	/*color: rgb(193, 39, 45);*/
+	}
+
+#saveagenda:hover { /* this changes the background and text color for both mouse and keyboard navigators */
+	background: #333;
+	color: #FFF;
+}
+
+#amount{
+	color: rgb(255, 255, 255); 
+	border:0; 
+	background-color: rgb(78, 78, 78); 
+	width:150px;
+	font-size:60px;
+}
+
+#amounthours{
+	color: rgb(255, 255, 255); 
+	border:0; 
+	background-color: rgb(78, 78, 78); 
+	width:200px;
+	font-size:60px;
+}
+
+#u103-a19
+{
+	z-index: 26;
+	width: 450px;
+	text-align: justify;
+	font-family: Verdana, Tahoma, Geneva, sans-serif;
+	margin-left: 70px;
+	position: relative;
+}
+
+div.agenda { 
+	padding: 10px !important;
+	font-size: 15px; 
+};
+
+#slider-agenda {
+		float: left;
+		clear: left;
+		width: 410px;
+		margin: 15px;	
+}
+
+#slider-agenda .ui-slider-range { background-color: rgb(193, 39, 45); }
+
+#slider-agenda .ui-slider-handle { border-color: rgb(193, 39, 45); }
+	
+.text_agenda{}
+.text_hours{
+		font-size:13px;
+}
+
+#agenda_options_box
+{
+/* 	
+	width: 189px;
+	height: 420px;
+	border-color: #000000;
+	background-color: #4E4E4E;
+	position: relative; */
+	z-index: 19;
+	width: 200px;
+	height: 150px;
+	border-color: #4D4D4D;
+	background-color: #4D4D4D;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;
+	position: relative;
+	margin-right: -250px;
+	margin-top: 160px;
+	left: 660px;
+}
