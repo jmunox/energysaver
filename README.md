@@ -13,7 +13,7 @@ to promote energy saving programs in office environments.
 This research proposed to turn the sustainable behavior into a playful activity as a way to effectively 
 motivate people to save electrical energy. 
 
-I develped an interactive online game which keept track of the energy consumption, with the aim to challenge 
+I developed an interactive online game which keept track of the energy consumption, with the aim to challenge 
 the individual to adopt new behaviors. I included simple game factors of challenge, fantasy, cooperation and 
 competition with others in order to improve the gaming experience and enhance participation.
 
